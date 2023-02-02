@@ -1,0 +1,5 @@
+C:\Users\eddjo\Desktop\PictureViewer.exe
+C:\Users\eddjo\Desktop\PictureViewer.dll
+C:\Users\eddjo\Desktop\PictureViewer.deps.json
+C:\Users\eddjo\Desktop\PictureViewer.runtimeconfig.json
+C:\Users\eddjo\Desktop\PictureViewer.pdb
