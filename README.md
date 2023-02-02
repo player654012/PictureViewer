@@ -19,3 +19,6 @@ A WPF application that allows users to perform several tasks including selecting
 ## Reference
 
 [Microsoft official document for Windows Presentation Foundation](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/?view=netframeworkdesktop-4.8)
+
+## Contributor
+Yuxi Qi
